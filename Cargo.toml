@@ -1,0 +1,9 @@
+[package]
+name = "term-editor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.27"
+ratatui = "0.26"
+ropey = "1.6"
